@@ -79,7 +79,7 @@
 		}
 	}
 	
-	super.contentOffset = anOffset;
+	[super setContentOffset:anOffset];
 }
 
 
